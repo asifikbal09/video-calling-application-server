@@ -1,7 +1,6 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 /* eslint-disable no-unused-vars */
 import { JsonWebTokenError } from 'jsonwebtoken';
-
 import httpStatus from 'http-status';
 import { TGenericErrorResponse } from '../types/error';
 
